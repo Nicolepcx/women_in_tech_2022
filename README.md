@@ -5,6 +5,13 @@ This repo contains the slides and the accompanying code for the
 technical workshop about the attention mechanism @ [women in tech
 global conference 2022](https://www.womentech.net/women-tech-conference). 
 
+
+## Downloading the repo
+This repo uses Git LFS find [here](https://www.atlassian.com/git/tutorials/git-lfs) more info how to use and install it,
+you can clone a Git LFS repository as normal using git clone.
+
+
+
 ## Content
 
 - Jupyter Note explaining the basics of the attention mechanism with NumPy
