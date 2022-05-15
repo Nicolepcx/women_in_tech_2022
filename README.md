@@ -29,6 +29,13 @@ terminal command: ```cd ~/Documents/02_code/women_in_tech_2022 ``` and use then 
 ```pipenv shell``` to start the virtual environment and use ```jupyter notebooks``` to 
 start the server for the Jupyter Notebooks server. 
 
+### Running the notebooks
+
+The notebooks for the anomaly detection at the vison transformer will run rather longer on your computer.
+To speed things up, you might want to use [Google's Colab](https://colab.research.google.com/). 
+Here you can simply upload the notebooks, but be aware that you will have to alter the paths
+for the notebooks of the anomaly detection notebook and also have to create some folders on your Google drive. 
+
 
 ## Using pipenv with PyCharm
 
@@ -38,11 +45,5 @@ The notebooks mostly use custom functions which are located in the folder
 with PyCharm follow [this steps](https://www.jetbrains.com/help/pycharm/pipenv.html).
 
 
-### Running the notebooks
-
-The notebooks for the anomaly detection at the vison transformer will run rather longer on your computer.
-To speed things up, you might want to use [Google's Colab](https://colab.research.google.com/). 
-Here you can simply upload the notebooks, but be aware that you will have to alter the paths
-for the notebooks of the anomaly detection notebook and also have to create some folders on your Google drive. 
 
 
