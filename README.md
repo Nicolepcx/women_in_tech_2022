@@ -14,7 +14,7 @@ you can clone a Git LFS repository as normal using git clone.
 
 ## Content
 
-- Jupyter Note explaining the basics of the attention mechanism with NumPy
+- Jupyter Notebook explaining the basics of the attention mechanism with NumPy
 - Jupyter Notebook for An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale ([paper](https://arxiv.org/abs/2010.11929))
 - Jupyter Notebooks and custom library for Unsupervised Anomaly Detection in Energy Time Series Data using Variational Recurrent Autoencoders with Attention ([paper](https://ieeexplore.ieee.org/document/8614232))
 
